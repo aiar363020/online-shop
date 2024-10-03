@@ -1,0 +1,52 @@
+
+.h1{
+    margin-top: 50px;
+    display: flex;
+    flex-direction: column;
+}
+
+.buu{
+    justify-content: space-between;
+    display: grid;
+}
+.bii{
+    display: grid;
+    margin-top: 30px;
+}
+
+.foks{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 45px;
+}
+.shoping{
+width: 650px;
+margin-left: 700px;
+height: 500px;
+margin-left: 300px;
+    }
+
+
+.flo{
+    width: 270px;
+    height: 230px;
+    display: flex;
+    margin: 60px;
+    gap: 40px;
+}
+.wewe-img{
+    position: static;
+    width: 231px;
+    height: 30px;
+    display: flex;
+    gap: 50px;
+    margin-top: 150px;
+    margin-left: 120px;
+}
+.wew{
+    width: 370px;
+    height: 430px;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+}

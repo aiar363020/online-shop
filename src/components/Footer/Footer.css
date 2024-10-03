@@ -1,0 +1,20 @@
+.rrr{
+    display: flex;
+    background-color: black;
+    color: aliceblue;
+}
+.Support{
+    margin-left: 70px;
+    margin-top: 100px;
+    text-align: unset;
+}
+.Exclusive{
+    margin-top: 100px;
+    margin-left: 50px;
+}
+.images{
+    width: 120px;
+    height: 15px;
+    justify-content: space-between;
+    gap: 15px;
+}
