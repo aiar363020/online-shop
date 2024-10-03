@@ -1,5 +1,4 @@
 import React, {useEffect, useState} from 'react'
-import '../assets/image/iphon.png'
 import "./Auth.scss"
 import { Link } from 'react-router-dom'
 import { auth } from '../firebase'
@@ -7,7 +6,6 @@ import {toast } from 'react-toastify';
 import { FaRegEye } from "react-icons/fa";
 import { PiEyeSlash } from "react-icons/pi";
 import { createUserWithEmailAndPassword } from 'firebase/auth';
-import { signInWithEmailAndPassword } from 'firebase/auth';
 
 function Register() {
     const [user, setUser] = useState ({email:"", password: ""});
