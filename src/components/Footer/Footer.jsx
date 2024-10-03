@@ -3,7 +3,7 @@ import run from '../../assets/svg/run.svg'
 import kod from '../../assets/svg/kod.svg'
 import Play from '../../assets/svg/Play.svg'
 import ww from '../../assets/svg/ww.svg'
-import insta from '../../assets/svg/insta.svg'
+// import insta from '../../assets/svg/insta.svg'
 import "./Footer.css"
 function Footer() {
   return (
@@ -54,7 +54,7 @@ function Footer() {
 
         <img src={Play} alt="" />
         <img src={ww} alt="" />
-        <img src={insta}alt="" />
+        <img src="" alt="" />
         </div>
       </div>
     </div>
