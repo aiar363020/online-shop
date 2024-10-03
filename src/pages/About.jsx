@@ -1,7 +1,7 @@
 import React from 'react'
 import text from '.././/assets/svg/text.svg'
 import shoping from '../assets/image/shoping.png'
-import sallers from '.././assets/image/sallers.png'
+// import sallers from '.././assets/image/sallers.png'
 import Mopnthly from '../assets/image/Mopnthly.png'
 import Customer from '../assets/image/Customer.png'
 import Anual from '../assets/image/Anual.png'
@@ -46,7 +46,7 @@ function About() {
         <img className='shoping' src={shoping} alt="" />
       </div>
       <div className='flo'>
-        <img src={sallers} alt="" />
+        <img src="" alt="" />
         <img src={Mopnthly} alt="" />
         <img src={Customer} alt="" />
         <img src={Anual} alt="" />
