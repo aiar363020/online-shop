@@ -1,12 +1,11 @@
 import React from 'react'
-import itemIphon from'../assets/image/iphon.png'
 import "./Login.scss"
 
 function Login() {
   return (
     <div className='signup container'>
       <div className='image'>
-        <img src={itemIphon.iphon} alt="" />
+        <img src="" alt="" />
       </div>
       <div className='crate'>
       <h1>Log in to Exclusive</h1>
